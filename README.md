@@ -1,6 +1,6 @@
 # Rick&Morty memory card game
 
-[Live Demo](https://radek1313.github.io/memory-card/) :point_left:
+[Live Demo](https://radek1313.github.io/memory-game/) :point_left:
 
 ## Getting started
 
